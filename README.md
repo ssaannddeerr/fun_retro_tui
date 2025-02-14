@@ -47,12 +47,12 @@ sudo apt install ncspot mpv newsboat lynx curl ncal
    - Custom shell script integration
 
 2. **Media Applications**
+   - YouTube terminal viewer (via [yt-x](https://github.com/Benexl/yt-x))
    - Spotify (via ncspot)
    - Live TV Streams (via mpv)
 
-3. **Information Tools**
+4. **Information Tools**
    - [Newsboat](https://github.com/newsboat/newsboat) RSS reader (password protected)
-   - YouTube terminal viewer (via [yt-x](https://github.com/Benexl/yt-x))
    - [Lynx](https://lynx.invisible-island.net/) web browser
    - Moon phase viewer
    - Weather display
