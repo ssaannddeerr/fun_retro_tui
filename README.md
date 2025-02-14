@@ -2,6 +2,8 @@
 
 A nostalgic terminal user interface launcher with a retro ASCII welcome animation and modern application integration. Features real-time weather updates, cryptocurrency tracking, and easy access to various terminal-based applications.
 
+![Screenshot](screenshot.png)
+
 ## ✨ Features
 
 ### Welcome Animation
