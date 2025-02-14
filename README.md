@@ -57,6 +57,8 @@ sudo apt install ncspot mpv newsboat lynx curl ncal
    - Moon phase viewer
    - Weather display
    - Calendar view
+  
+![Moon Applet Screenshot](moon_applet.png)
 
 ## ⌨️ Controls
 
