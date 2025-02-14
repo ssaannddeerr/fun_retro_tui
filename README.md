@@ -51,9 +51,9 @@ sudo apt install ncspot mpv newsboat lynx curl ncal
    - Live TV Streams (via mpv)
 
 3. **Information Tools**
-   - Newsboat RSS reader (password protected)
-   - YouTube terminal viewer (via yt-x)
-   - Lynx web browser
+   - [Newsboat](https://github.com/newsboat/newsboat) RSS reader (password protected)
+   - YouTube terminal viewer (via [yt-x](https://github.com/Benexl/yt-x))
+   - [Lynx](https://lynx.invisible-island.net/) web browser
    - Moon phase viewer
    - Weather display
    - Calendar view
@@ -101,7 +101,7 @@ The launcher uses environment-specific configurations for:
 - Currency rates are fetched from exchangerate-api.com
 - Bitcoin prices are retrieved from CoinGecko's API
 - All live streams require a valid URL that can be played with mpv
-- The launcher is designed to work best cool-retro-term
+- The launcher is designed to work best [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 ## 🚫 Requirements
 
