@@ -19,7 +19,7 @@ A nostalgic terminal user interface launcher with a retro ASCII welcome animatio
   - Current time and date
   - Local weather conditions
   - Bitcoin price tracker
-  - CZK/USD exchange rate
+  - Exchange rate
 - Vim-style navigation (hjkl and arrow keys)
 
 ## 🚀 Installation
@@ -74,7 +74,7 @@ sudo apt install ncspot mpv newsboat lynx curl ncal
 The launcher includes several background threads that automatically update:
 - Weather conditions (every 15 minutes)
 - Bitcoin price (every minute)
-- CZK/USD exchange rate (hourly)
+- Exchange rate (hourly)
 
 ## 🔒 Security Features
 
@@ -95,11 +95,11 @@ The launcher uses environment-specific configurations for:
 - Application paths
 - API endpoints for weather, cryptocurrency, and exchange rates
 - Protected application passwords
-- Default location for weather (Prague)
+- Default location for weather
 
 ## 📝 Notes
 
-- The weather information uses wttr.in for Prague by default
+- The weather information uses wttr.in
 - Currency rates are fetched from exchangerate-api.com
 - Bitcoin prices are retrieved from CoinGecko's API
 - All live streams require a valid URL that can be played with mpv
